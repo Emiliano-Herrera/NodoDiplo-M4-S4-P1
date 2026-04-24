@@ -104,5 +104,21 @@ https://rickandmortyapi.com/api/character/
 - Api utilizada:
   - [https://rickandmortyapi.com/](https://rickandmortyapi.com/)
 \
-🚀 ¡Manos a la obra y mucha suerte! 🎬🧑🏻‍💻👨🏻‍💻👩🏻‍💻
 
+## Tecnologías utilizadas
+
+- React 18 + Vite
+- TailwindCSS para estilos
+- Axios para peticiones HTTP
+- React Toastify para notificaciones
+- React Icons para iconos
+
+## Se eligió Axios porque tiene...
+
+- Manejo de errores más simple
+
+- Transformación automática de JSON
+
+- Mejor compatibilidad con navegadores
+
+- Interceptores para manejo global de peticiones
